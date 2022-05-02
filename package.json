@@ -1,10 +1,10 @@
 {
-  "name": "BigTrip",
+  "name": "bigtrip",
   "version": "1.0.0",
   "private": true,
   "description": "Личный проект «Большое путешествие»",
   "scripts": {
-    "eslint": "eslint src/**/*.js",
+    "eslint": "eslint src/**/*.ts",
     "test": "npm run eslint"
   },
   "devDependencies": {
